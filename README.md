@@ -1,2 +1,2 @@
-"Repository Management Lab 
-This line was added in the main branch." 
+"Repository Management Lab "
+"This line was added in the main branch." 
